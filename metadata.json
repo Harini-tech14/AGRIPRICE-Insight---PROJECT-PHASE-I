@@ -1,0 +1,8 @@
+{
+  "name": "Remix AgriPrice AI: Mandi Forecasting \u0026 Buffer Stock DSS",
+  "description": "AI/ML agricultural commodity price forecasting, 90-day multi-step projections, unseen market validator, Tamil Nadu regional mandi intelligence, and buffer stock decision support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
